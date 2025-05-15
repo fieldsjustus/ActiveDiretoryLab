@@ -24,10 +24,10 @@ Install Active Directory Domain Services on Windows 2022 Server: <br/>
 <br />
 <br />
 Promote Server to a domain controller:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="752" alt="Image" src="https://github.com/user-attachments/assets/0db3ed2b-d6a4-4ae7-af56-a6d0d8e51b8a" />/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Deploy Configuration: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
