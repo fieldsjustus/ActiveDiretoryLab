@@ -28,7 +28,7 @@ Promote Server to a domain controller:  <br/>
 <br />
 <br />
 Deploy Configuration: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="754" alt="Image" src="https://github.com/user-attachments/assets/015a7892-2a4b-47ec-beed-d66f998cb38a" />/>
 <br />
 <br />
 Confirm your selection:  <br/>
