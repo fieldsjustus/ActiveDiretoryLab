@@ -44,14 +44,9 @@ Create Organizational Unit:  <br/>
 <br />
 <br />
 Add users to OU:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="752" alt="Image" src="https://github.com/user-attachments/assets/f6fd7b6f-6eda-45c5-b463-09813491ea27" />"/>
 </p>
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <!--
  ```diff
 - text in red
