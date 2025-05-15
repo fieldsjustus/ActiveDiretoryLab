@@ -35,11 +35,11 @@ Install Active Directory Domain Services via Powershell:  <br/>
 <img <img width="751" alt="Image" src="https://github.com/user-attachments/assets/20428097-b088-4c88-8d42-61d4ce95b1af" />/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a Domain Controller using Powershell:  <br/>
+<img <img width="751" alt="Image" src="https://github.com/user-attachments/assets/53232fec-4ddd-48c6-a4b3-925193083f14" />/>
 <br />
 <br />
-Sanitization complete:  <br/>
+Create Organizational Unit:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
