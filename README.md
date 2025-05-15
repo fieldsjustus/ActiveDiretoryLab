@@ -40,13 +40,18 @@ Create a Domain Controller using Powershell:  <br/>
 <br />
 <br />
 Create Organizational Unit:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="749" alt="Image" src="https://github.com/user-attachments/assets/879aefba-9c9a-4dc0-98bc-664b33ab11e4" />/>
 <br />
 <br />
+Add users to OU:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <!--
  ```diff
 - text in red
