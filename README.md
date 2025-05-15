@@ -31,8 +31,8 @@ Deploy Configuration: <br/>
 <img <img width="754" alt="Image" src="https://github.com/user-attachments/assets/015a7892-2a4b-47ec-beed-d66f998cb38a" />/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Install Active Directory Domain Services via Powershell:  <br/>
+<img <img width="751" alt="Image" src="https://github.com/user-attachments/assets/20428097-b088-4c88-8d42-61d4ce95b1af" />/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
