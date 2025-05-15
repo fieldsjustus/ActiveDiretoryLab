@@ -20,10 +20,10 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Install Active Directory Domain Services on Windows 2022 Server: <br/>
-<img src="[https://imgur.com/MjarznP]"/>
+<img width="752" alt="Image" src="https://github.com/user-attachments/assets/1f4c0b70-260f-4cbc-8728-fdc7dc213d3c" />
 <br />
 <br />
-Select the disk:  <br/>
+Promote Server to a domain controller:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
